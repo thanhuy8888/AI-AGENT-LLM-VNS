@@ -1,0 +1,8 @@
+{
+  "name": "Vinaseed Legal AI - Trợ lý Quy chế Thông minh",
+  "description": "Hệ thống AI hỗ trợ cán bộ nhân viên tra cứu nhanh quy chế, chính sách và văn bản nội bộ của Tập đoàn Vinaseed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
